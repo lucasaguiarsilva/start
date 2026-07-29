@@ -27,3 +27,24 @@ body {
     min-width: 100vh;
     background-color: ;
 }
+main {
+    flex: 1;
+}
+
+.cabecalho-link {
+    color: #fff;
+    text-decoration: nome;
+}
+
+h1 {
+    color: #fff;
+    font-size: 24px;
+
+
+}
+footer {
+    background-color: #452c7e;
+    padding: 15px 25px;
+    color: #fff;
+
+}

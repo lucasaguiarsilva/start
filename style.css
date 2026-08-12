@@ -13,8 +13,8 @@
 }
 
 .cartao {
-    width: 260;
-    height: 20;
+    width: 260px;
+    height: 20px;
 }
 
 .cartao-imagem {
@@ -25,7 +25,7 @@ body {
     display: flex;
     flex-direction: column;
     min-width: 100vh;
-    background-color: ;
+    background-color: #fff;
 }
 main {
     flex: 1;
